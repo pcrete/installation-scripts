@@ -10,6 +10,6 @@
 ## About me
 
 * [Wettayakorn.com](https://www.wettayakorn.com/)
-* [GitHub](https://github.com/pcrete)
 * [LinkedIn](https://linkedin.com/in/poom-wettayakorn)
+* [GitHub](https://github.com/pcrete)
 
