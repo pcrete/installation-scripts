@@ -7,6 +7,10 @@
 * [Docker](installation-scripts/docker.md)
 * [Python](installation-scripts/python.md)
 
+## Tutorials
+
+* [Helm](tutorials/helm.md)
+
 ## About me
 
 * [Wettayakorn.com](https://www.wettayakorn.com/)
